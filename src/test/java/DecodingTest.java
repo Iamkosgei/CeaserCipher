@@ -3,11 +3,17 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class DecodingTest {
-    Decoding decoding = new Decoding( 2, "MGNXKP MQUIGK");
+    Decoding testDecoding = new Decoding( 2, "MGNXKP MQUIGK");
 
     @Test
     public void checkIfSavesInputText()
     {
-        assertEquals("MGNXKP MQUIGK", decoding.getInputText() );
+        assertEquals("MGNXKP MQUIGK", testDecoding.getInputText() );
+    }
+
+    @Test
+    public void checkKeyIsSaved()
+    {
+        assertEquals(2,testDecoding.getKey());
     }
 }
