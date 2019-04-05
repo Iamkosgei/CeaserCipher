@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class EncodingTest {
-    Encoding testEncoding = new Encoding("KELVIN", 2);
+    Encoding testEncoding = new Encoding("KELVIN KOSGEI", 2);
     @Test
     public void checkIfItCreatesInstance()
     {
@@ -13,7 +13,7 @@ public class EncodingTest {
     @Test
     public void checkIfSavesInputText()
     {
-        assertEquals("KELVIN", testEncoding.getInputText() );
+        assertEquals("KELVIN KOSGEI", testEncoding.getInputText() );
     }
 
     @Test
@@ -22,9 +22,10 @@ public class EncodingTest {
         assertEquals(2,testEncoding.getKey());
     }
 
+    @Test
     public void isValidInputText()
     {
-        assertEquals(true, testEncoding.isValidInputText);
+        assertEquals(true, testEncoding.isValidInputText());
     }
 
 }
