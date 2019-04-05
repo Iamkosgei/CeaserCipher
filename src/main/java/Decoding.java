@@ -10,4 +10,8 @@ public class Decoding {
     public String getInputText() {
         return mInputText;
     }
+
+    public int getKey() {
+        return mKey;
+    }
 }
