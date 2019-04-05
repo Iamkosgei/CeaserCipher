@@ -28,4 +28,10 @@ public class EncodingTest {
         assertEquals(true, testEncoding.isValidInputText());
     }
 
+    @Test
+    public void isValidKey()
+    {
+        assertEquals(true, testEncoding.isValidKey());
+    }
+
 }
