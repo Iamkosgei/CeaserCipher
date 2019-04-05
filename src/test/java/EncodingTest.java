@@ -34,4 +34,10 @@ public class EncodingTest {
         assertEquals(true, testEncoding.isValidKey());
     }
 
+    @Test
+    public void validEncoding()
+    {
+        assertEquals("mgnxkp mquigk" , testEncoding.encode());
+    }
+
 }
