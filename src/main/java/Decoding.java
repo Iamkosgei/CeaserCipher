@@ -26,4 +26,10 @@ public class Decoding {
         }
         return true;
     }
+
+    public boolean isValidKey()
+    {
+        return mKey >1 && mKey < 26;
+
+    }
 }
