@@ -37,7 +37,7 @@ public class EncodingTest {
     @Test
     public void validEncoding()
     {
-        assertEquals("mgnxkp mquigk" , testEncoding.encode());
+        assertEquals("MGNXKP MQUIGK" , testEncoding.encode());
     }
 
 }

@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="293">
+              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
                 <element signature="e#252#253#0" expanded="true" />
@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -54,7 +54,6 @@
                 <element signature="e#329#330#0" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
                 <element signature="e#568#569#0" expanded="true" />
                 <element signature="e#679#680#0" expanded="true" />
                 <element signature="e#746#747#0" expanded="true" />
@@ -83,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/CaesarCipherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CaesarCipher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Encoding.java" />
         <option value="$PROJECT_DIR$/src/test/java/EncodingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Encoding.java" />
       </list>
     </option>
   </component>
@@ -213,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554457746222</updated>
-      <workItem from="1554457748046" duration="9963000" />
+      <workItem from="1554457748046" duration="11560000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1554462587817</created>
@@ -226,21 +225,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 56m 35s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 57m 20s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 57m 45s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 58m 22s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 59m 06s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 38m 43s.xml">
       <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -256,20 +240,34 @@
     <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 40m 26s.xml">
       <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 16h 51m 46s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 16h 52m 35s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 16h 55m 21s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 16h 58m 16s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 16h 59m 31s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9963000" />
+    <option name="totallyTimeSpent" value="11560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" />
@@ -279,7 +277,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,23 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
@@ -343,12 +328,24 @@
             <element signature="e#329#330#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
             <element signature="e#819#820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
