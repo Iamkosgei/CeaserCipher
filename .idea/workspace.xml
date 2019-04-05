@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="510">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
                 <element signature="e#252#253#0" expanded="true" />
@@ -44,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="514">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -56,6 +56,8 @@
                 <element signature="e#477#478#0" expanded="true" />
                 <element signature="e#538#539#0" expanded="true" />
                 <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -209,7 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554457746222</updated>
-      <workItem from="1554457748046" duration="7373000" />
+      <workItem from="1554457748046" duration="9222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1554462587817</created>
@@ -222,21 +224,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 13m 47s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 23m 42s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 28m 18s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 52m 23s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 52m 41s.xml">
-      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 56m 35s.xml">
       <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -252,9 +239,24 @@
     <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 59m 06s.xml">
       <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 38m 43s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 39m 14s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 39m 32s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 39m 58s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 15h 40m 26s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7373000" />
+    <option name="totallyTimeSpent" value="9222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -265,7 +267,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" />
@@ -316,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="510">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#252#253#0" expanded="true" />
@@ -329,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="514">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
@@ -341,6 +343,8 @@
             <element signature="e#477#478#0" expanded="true" />
             <element signature="e#538#539#0" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
           </folding>
         </state>
       </provider>

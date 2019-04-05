@@ -6,16 +6,13 @@ public class Encoding {
         mKey = key;
         mInputText = inputText;
     }
-
     public String getInputText() {
         return mInputText;
     }
-
     public int getKey()
     {
         return mKey;
     }
-
     public boolean isValidInputText()
     {
         char[] chars = mInputText.toCharArray();
@@ -27,5 +24,11 @@ public class Encoding {
         }
 
         return true;
+    }
+
+    public boolean isValidKey()
+    {
+        return mKey >1 && mKey < 26;
+
     }
 }
