@@ -14,4 +14,16 @@ public class Decoding {
     public int getKey() {
         return mKey;
     }
+
+    public boolean isValidInputText()
+    {
+        char[] chars = mInputText.toCharArray();
+
+        for (char c : chars) {
+            if(!Character.isLetter(c) && c != ' ') {
+                return false;
+            }
+        }
+        return true;
+    }
 }
