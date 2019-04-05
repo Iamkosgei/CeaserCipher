@@ -16,4 +16,10 @@ public class EncodingTest {
         assertEquals("KELVIN", testEncoding.getInputText() );
     }
 
+    @Test
+    public void checkKeyIsSaved()
+    {
+        assertEquals(2,testEncoding.getKey());
+    }
+
 }
