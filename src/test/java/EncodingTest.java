@@ -22,4 +22,9 @@ public class EncodingTest {
         assertEquals(2,testEncoding.getKey());
     }
 
+    public void isValidInputText()
+    {
+        assertEquals(true, testEncoding.isValidInputText);
+    }
+
 }

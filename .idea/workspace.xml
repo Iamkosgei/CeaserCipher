@@ -13,12 +13,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CaesarCipher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/CaesarCipherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/CaesarCipherTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Encoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Encoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/EncodingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/EncodingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/EncodingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/EncodingTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-CaesarCipherTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-EncodingTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-EncodingTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/EncodingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EncodingTest.java" afterDir="false" />
@@ -44,30 +44,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
                 <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="442">
+              <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
                 <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +97,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/CaesarCipherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CaesarCipher.java" />
-        <option value="$PROJECT_DIR$/src/test/java/EncodingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Encoding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EncodingTest.java" />
       </list>
     </option>
   </component>
@@ -137,6 +143,13 @@
               <item name="CaesarCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaesarCipher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaesarCipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554457746222</updated>
-      <workItem from="1554457748046" duration="4361000" />
+      <workItem from="1554457748046" duration="5600000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1554462587817</created>
@@ -236,9 +249,15 @@
     <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 13m 47s.xml">
       <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 23m 42s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'CaesarCipher_test' - 2019.04.05 at 14h 28m 18s.xml">
+      <configuration name="Tests in 'CaesarCipher.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4361000" />
+    <option name="totallyTimeSpent" value="5600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -249,7 +268,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" />
@@ -298,27 +317,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EncodingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="442">
+          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
           </folding>
         </state>
       </provider>

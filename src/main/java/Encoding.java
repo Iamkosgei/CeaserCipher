@@ -10,4 +10,9 @@ public class Encoding {
     public String getInputText() {
         return mInputText;
     }
+
+    public int getKey()
+    {
+        return mKey;
+    }
 }
