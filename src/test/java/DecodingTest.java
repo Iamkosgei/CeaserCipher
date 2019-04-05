@@ -28,4 +28,10 @@ public class DecodingTest {
     {
         assertEquals(true, testDecoding.isValidKey());
     }
+
+    @Test
+    public void validDecoding()
+    {
+        assertEquals("KELVIN KOSGEI" , testDecoding.decode());
+    }
 }
