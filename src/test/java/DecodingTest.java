@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 
 public class DecodingTest {
     Decoding testDecoding = new Decoding( 2, "MGNXKP MQUIGK");
-
     @Test
     public void checkIfSavesInputText()
     {
