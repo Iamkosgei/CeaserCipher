@@ -15,7 +15,7 @@ The Caesar Cipher technique is one of the earliest method of encryption techniqu
 
 ## Testing
 
-   ```gradle
+   ```java
     gradle test
 ```
 
