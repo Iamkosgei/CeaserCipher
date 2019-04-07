@@ -23,7 +23,7 @@ public class EncodingTest {
     }
 
     @Test
-    void isNotEmpty()
+    public void isNotEmpty()
     {
         assertEquals(true,testEncoding.isNotEmpty());
     }
