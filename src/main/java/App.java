@@ -11,19 +11,9 @@ public class App {
        {
            System.out.println("Enter a text");
            String inputText = scanner.nextLine().toUpperCase();
-           System.out.println("Enter the key");
-           int key = scanner.nextInt();
 
-           Encoding encoding = new Encoding(inputText,key);
 
-           if (encoding.isValidInputText() && encoding.isValidKey())
-           {
 
-           }
-           else
-           {
-               System.out.println("Please make sure that your inputs are valid");
-           }
        }
        else if(choice == 2)
        {

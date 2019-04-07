@@ -23,6 +23,12 @@ public class EncodingTest {
     }
 
     @Test
+    void isNotEmpty()
+    {
+        assertEquals(true,testEncoding.isNotEmpty());
+    }
+
+    @Test
     public void isValidInputText()
     {
         assertEquals(true, testEncoding.isValidInputText());
